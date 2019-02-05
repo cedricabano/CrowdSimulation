@@ -1,4 +1,4 @@
-# CrowdSimulation
+# Crowd Simulation
 ## Overview
 This project was initially developed jointly with @KevinWu97 for a group project for CS 442: Game Science.  The goal of this project is to develop tools and resources to be used by building designers to test escape route availability and safety in a disaster scenario.  Using Unity, we developed an escape simulator for multiple agents with limited knowledge, implementing features which added to the realism of the scenario.  This includes imperfect memory retention, primacy and recency, and limited communication.  The simulation developed in class exists as a limited proof of concept, as due to the time constraints of the class we were unable to properly develop external features to make it playable/interactive.  The original project is located [here](https://github.com/dodecaphobia/CS442-Group-17) and cannot be further developed, as it is set to be uploaded to a Rutgers website (URL pending).
 
