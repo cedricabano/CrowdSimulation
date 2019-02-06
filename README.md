@@ -24,4 +24,4 @@ The simulated agents retain an imperfect knowledge of the map which shifts based
 * Behavior trees to more accurately model behavior.
 
 ## Credits
-I would like to thank my partner, @KevinWu97, without which this project would not have gotten of the ground.  I would also like to thank Mubbasir Kapadia for his guidance and contributions to the project, and for designing the framework of the class in which this project was developed.
+I would like to thank my partner, @KevinWu97, without which this project would not have gotten off the ground.  I would also like to thank Mubbasir Kapadia for his guidance and contributions to the project, and for designing the framework of the class in which this project was developed.
